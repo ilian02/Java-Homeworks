@@ -1,4 +1,4 @@
 package bg.sofia.uni.fmi.mjt.mail.exceptions;
 
-public class AccountAlreadyExistsException {
+public class AccountAlreadyExistsException extends Throwable {
 }

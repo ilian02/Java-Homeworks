@@ -1,4 +1,4 @@
 package bg.sofia.uni.fmi.mjt.mail.exceptions;
 
-public class FolderNotFoundException {
+public class FolderNotFoundException extends Throwable{
 }

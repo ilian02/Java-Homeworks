@@ -1,4 +1,4 @@
 package bg.sofia.uni.fmi.mjt.mail.exceptions;
 
-public class AccountNotFoundException {
+public class AccountNotFoundException extends Throwable {
 }
